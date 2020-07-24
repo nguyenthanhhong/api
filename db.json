@@ -61,6 +61,24 @@
         "name": "Daniel Russell",
         "email": "@danieltiger08",
         "follow": 1
+    },
+    {
+        "id": 5,
+        "name": "Herman Beck",
+        "email": "@becktiger28",
+        "follow": 1
+    },
+    {
+        "id": 6,
+        "name": "Mary Adams",
+        "email": "@marymary21",
+        "follow": 1
+    },
+    {
+        "id": 7,
+        "name": "Caleb Richards",
+        "email": "@Richards11",
+        "follow": 1
     }
   ]
 }
