@@ -2,7 +2,7 @@
   "order": [
     {
       "id": 1,
-      "image": "",
+      "image": "imac.png",
       "product": "iMac",
       "customer": "Russell",
       "purchased_date": "22/08/2018",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "image": "hello",
+      "image": "iphone.png",
       "product": "iPhone",
       "customer": "Carol",
       "purchased_date": "15/07/2018",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "image": "hello",
+      "image": "applewatch.png",
       "product": "apple Watch",
       "customer": "Austin Pena",
       "purchased_date": "10/07/2018",
@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "image": "hello",
+      "image": "macmouse.png",
       "product": "mac Mouse",
       "customer": "Randy",
       "purchased_date": "22/04/2018",
@@ -48,13 +48,13 @@
         "id": 2,
         "name": "Ronnie Ellis",
         "email": "@kingronnie24",
-        "follow": 1
+        "follow": 3
     },
     {
         "id": 3,
         "name": "Gwendolyn Wheeler",
         "email": "@perttygirl66",
-        "follow": 1
+        "follow": 0
     },
     {
         "id": 4,
